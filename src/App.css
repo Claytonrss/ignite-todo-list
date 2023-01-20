@@ -1,3 +1,9 @@
+.app {
+  max-width: 768px;
+  padding: 0 16px;
+  margin: 0 auto;
+}
+
 body {
   background: #1a1a1a;
 }
